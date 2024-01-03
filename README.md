@@ -5,7 +5,9 @@
 
 [![Linkedin: khasan-akhmadiev](https://img.shields.io/badge/khasan--akhmadiev-g?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue
 )](https://www.linkedin.com/in/khasan-akhmadiev/)
-[![Instagram: hasaki_prod](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Telegram: sally77h](https://img.shields.io/badge/khasan--akhmadiev-g?style=flat&logo=telegram&logoColor=white&labelColor=grey&color=grey)](https://t.me/sally77h)
+[![Instagram: hasaki_prod](https://img.shields.io/badge/hasaki_prod-v?style=flat&logo=instagram&logoColor=white&labelColor=pink&color=white
+)](https://www.instagram.com/hasaki_prod/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
