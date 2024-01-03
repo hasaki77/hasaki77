@@ -21,4 +21,5 @@
 | stepik.org/Введение в Data Science и машинное обучение          | 09/2023 - 11/2023 |
 | learning.edx.org/Machine Learning Fundamentals                  | 11/2023 - xx/2024 |
 
+--- -->
 ---
