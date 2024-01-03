@@ -1,5 +1,5 @@
 <h2> Hi, I'm Khasan! <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/MKJjnz7h0B8hY7yPLc/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/zNTrlsMxLVANIGBmgr/giphy.gif">
 <p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30">
 </em></p>
 
