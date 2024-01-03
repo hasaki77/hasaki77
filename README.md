@@ -9,7 +9,7 @@
 )](https://t.me/sally77h)
 [![Instagram: hasaki_prod](https://img.shields.io/badge/hasaki_prod-v?style=flat&logo=instagram&logoColor=white&labelColor=pink&color=white
 )](https://www.instagram.com/hasaki_prod/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Khasan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/hasaki77)
 
 <!-- ### 💻 Finished courses:
 
