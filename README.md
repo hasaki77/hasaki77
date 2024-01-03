@@ -1,6 +1,6 @@
 <h2> Hi, I'm Khasan! <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/zNTrlsMxLVANIGBmgr/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/zNTrlsMxLVANIGBmgr/giphy.gif" width="200">
 
 <p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"><br>
   ✓ Young Scientist with a passion for Physics and Materials Research <br>
