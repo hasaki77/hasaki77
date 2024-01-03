@@ -7,7 +7,7 @@
   ✓ Participation in conferences within the priority fields of Research and Development (R&D)
 </em></p>
 
-Feel free to contact with me:
+Contact with me:
 [![Linkedin: khasan-akhmadiev](https://img.shields.io/badge/khasan--akhmadiev-g?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue
 )](https://www.linkedin.com/in/khasan-akhmadiev/)
 [![Telegram: sally77h](https://img.shields.io/badge/sally77h-v?style=flat&logo=telegram&logoColor=white&labelColor=grey&color=grey
