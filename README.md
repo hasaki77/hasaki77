@@ -1,6 +1,6 @@
 <h2> Hi, I'm Khasan! <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/rqxRG3jWyWZN8u3VMy/giphy.gif" width="230">
-<p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/MKJjnz7h0B8hY7yPLc/giphy.gif" width="230">
+<p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
