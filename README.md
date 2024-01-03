@@ -11,6 +11,14 @@
 )](https://www.instagram.com/hasaki_prod/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
+<!-- ### 💻 Finished courses:
 
+| Courses                                                         | Data              |
+| ----------------------------------------------------------------| :---------------: |
+| informatics.msk.ru/Программирование на python: Задачи           | 10/2022 - 12/2022 |
+| stepik.org/"Поколение Python": курс для продвинутых             | 02/2023 - 06/2023 |
+| stepik.org/Основы статистики                                    | 07/2023 - 08/2023 |
+| stepik.org/Введение в Data Science и машинное обучение          | 09/2023 - 11/2023 |
+| learning.edx.org/Machine Learning Fundamentals                  | 11/2023 - xx/2024 |
 
 ---
