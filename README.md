@@ -3,8 +3,9 @@
 <p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: khasan-akhmadiev](https://img.shields.io/badge/khasan--akhmadiev-g?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue
+=https://www.linkedin.com/in/khasan-akhmadiev/)](https://www.linkedin.com/in/khasan-akhmadiev/)
+[![Instagram: hasaki_prod](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
