@@ -1,6 +1,10 @@
 <h2> Hi, I'm Khasan! <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/zNTrlsMxLVANIGBmgr/giphy.gif" width="300">
-<p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30">
+
+<p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"><br>
+  ✓ Young Scientist with a passion for Physics and Materials Research <br>
+  ✓ Participation in conferences within the priority fields of Research and Development (R&D)
 </em></p>
 
 [![Linkedin: khasan-akhmadiev](https://img.shields.io/badge/khasan--akhmadiev-g?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue
@@ -22,7 +26,6 @@
 | stepik.org/Введение в Data Science и машинное обучение          | 09/2023 - 11/2023 |
 | learning.edx.org/Machine Learning Fundamentals                  | 11/2023 - xx/2024 |</h1>
 
---- -->
 
 
 ---
