@@ -16,7 +16,7 @@
 [![GitHub Khasan](https://img.shields.io/badge/Khasan-v?style=flat&logo=github&logoColor=white&labelColor=grey&color=white
 )](https://github.com/hasaki77)
 
-<h4> <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" wifth="50"> Finished courses:
+<h4> <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50"> Finished courses:
 
 | Courses                                                         | Data              |
 | ----------------------------------------------------------------| :---------------: |
