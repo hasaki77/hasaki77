@@ -25,7 +25,10 @@ Contact with me:
 | stepik.org/"Поколение Python": курс для продвинутых             | 02/2023 - 06/2023 |
 | stepik.org/Основы статистики                                    | 07/2023 - 08/2023 |
 | stepik.org/Введение в Data Science и машинное обучение          | 09/2023 - 11/2023 |
-| learning.edx.org/Machine Learning Fundamentals                  | 11/2023 - xx/2024 |</h1>
+| Skoltech/Introduction to Data Science                           | 10/2023 - 11/2023 |
+| Skoltech/Experimental Data Processing                           | 10/2023 - 11/2023 |
+| learning.edx.org/Machine Learning Fundamentals                  | 11/2023 - 01/2024 |
+| Skoltech/Machine Learning                                       | 02/2024 - 04/2024 |</h1>
 
 
 
