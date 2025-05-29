@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/zNTrlsMxLVANIGBmgr/giphy.gif" width="200">
 
 <p><em>Materials Scientist at Skolkovo Institute of Science and Technology<img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="30"><br>
-  ✓ Young Scientist with a passion for Physics and Materials Research <br>
+  ✓ Young Scientist with a passion for Physics and AI in Materials Design <br>
   ✓ Participation in conferences within the priority fields of Research and Development (R&D)
 </em></p>
 
