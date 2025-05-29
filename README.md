@@ -31,7 +31,7 @@ Contact with me:
 | Skoltech/Machine Learning                                       | 02/2024 - 04/2024 |
 | HSE/Deep Generative Modelling                                   | 03/2025 - 05/2025 |
 | Skoltech/Deep Learning                                          | 03/2025 - 05/2025 |
-| Skoltech/Generative AI Learning                                 | 03/2025 - 05/2025 |</h1>
+| Skoltech/Generative AI                                          | 03/2025 - 05/2025 |</h1>
 
 
 
